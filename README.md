@@ -1,4 +1,6 @@
 # NASA-SPACE-APPS-2025
+
+The entire game was created using the platform Rosebud AI with educational purposes.
 Prompts and sources
 ALL SOURCES:
 
